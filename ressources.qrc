@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/video.png</file>
+        <file>icons/undo.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/rubber.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/preview.png</file>
+        <file>icons/pen.png</file>
+        <file>icons/openProject.png</file>
+        <file>icons/next.png</file>
+        <file>icons/newProject.png</file>
+        <file>icons/layers.png</file>
+        <file>icons/hourglass-icon.png</file>
+        <file>icons/go.png</file>
+        <file>icons/floppy.png</file>
+        <file>icons/exportVid.png</file>
+        <file>icons/exportImg.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/back.png</file>
+    </qresource>
+    <qresource prefix="/settings"/>
+</RCC>
